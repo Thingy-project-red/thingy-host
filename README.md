@@ -1,2 +1,2 @@
 # thingy-host
-Collection of files needed for hosting the project
+Collection of files needed for hosting the project.
