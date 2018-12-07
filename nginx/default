@@ -3,6 +3,6 @@ server {
 
     listen 80;
     listen [::]:80;
-    server_name api.thingy-project-red.com client.thingy-project-red.com node.thingy-project-red.com;
+    server_name api.thingy-project-red.com client.thingy-project-red.com;
     return 404;
 }
